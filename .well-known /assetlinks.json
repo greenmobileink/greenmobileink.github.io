@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.geenmobileink.onlineradio",
+      "sha256_cert_fingerprints": [
+        "DE:A2:F9:C0:45:1B:45:97:59:23:B1:75:CE:B7:34:11:63:F3:E0:82:CF:7E:36:73:66:C4:39:54:F1:23:8E:2E"
+      ]
+    }
+  }
+]
